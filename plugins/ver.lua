@@ -1,21 +1,17 @@
 do
 
 function run(msg, matches)
-  return [[ B L A C K +
+  return [[ T e l e A g e n t
 -----------------------------------
 A new bot for manage your Supergroups.
 -----------------------------------
-@Black_CH #Channel
+@TeleAgent_Team #Channel
 -----------------------------------
-@MehdiHS #Developer
+@XHACKERX #Developer
 -----------------------------------
-@YflQw #Manager
+@TeleAgent #Bot
 -----------------------------------
-@Mr_Surena #Manager
------------------------------------
-Bot number : +19092545429
------------------------------------
-Bot version : 6.7 ]]
+Bot version : 3.0 ]]
 end
 
 return {
